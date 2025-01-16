@@ -6,4 +6,4 @@
 QuickDBD-SQL_Challenge_schema.sql
 
 ### Data Analysis
-
+SQL_skeleton_queries.sql
